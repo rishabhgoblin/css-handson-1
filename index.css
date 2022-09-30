@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+.test{
+    color: red;
+    font-style: italic;
+    font-weight: bolder;
+}
+#rishabh{
+    color: brown;
+    font-size: large;
+}
+#rishu{
+    color: brown;
+    letter-spacing: 1mm;
+    font-weight: bold;
+}
